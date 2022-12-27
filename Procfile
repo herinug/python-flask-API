@@ -1,0 +1,1 @@
+web: guniconr app:app --reload --workers 2
